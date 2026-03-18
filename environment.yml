@@ -1,0 +1,50 @@
+name: lora-crystal-generator
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+
+  # Scientific computing
+  - numpy>=1.21,<2.0
+  - scipy>=1.7
+  - pandas>=1.3
+  - scikit-learn>=1.1
+
+  # PyTorch (CPU build; replace with cudatoolkit version for GPU training)
+  - pytorch>=1.12
+  - pytorch-lightning>=1.8
+
+  # Plotting
+  - matplotlib>=3.5
+  - seaborn>=0.11
+
+  # Utilities
+  - tqdm>=4.64
+  - pyyaml>=6.0
+  - h5py>=3.6
+
+  - pip:
+    # Materials science
+    - ase>=3.22.0
+    - pymatgen>=2022.5.26
+    - mp-api>=0.29.0
+
+    # Configuration
+    - hydra-core>=1.2.0
+    - omegaconf>=2.2.0
+
+    # Dataset download
+    - datasets>=2.0.0
+    - huggingface-hub>=0.12.0
+
+    # Misc
+    - rich>=12.0.0
+    - statsmodels>=0.13.0
+
+    # ── Install these manually after activating the environment ──────────────
+    # pip install git+https://github.com/microsoft/mattergen.git
+    # pip install git+https://github.com/microsoft/mattersim.git

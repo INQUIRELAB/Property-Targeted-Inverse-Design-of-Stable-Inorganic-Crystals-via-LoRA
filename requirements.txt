@@ -1,0 +1,43 @@
+# ─── Core scientific stack ────────────────────────────────────────────────────
+numpy>=1.21.0,<2.0.0
+scipy>=1.7.0
+pandas>=1.3.0
+
+# ─── Deep learning ────────────────────────────────────────────────────────────
+torch>=1.12.0
+pytorch-lightning>=1.8.0
+
+# ─── Materials science ────────────────────────────────────────────────────────
+ase>=3.22.0
+pymatgen>=2022.5.26
+mp-api>=0.29.0
+
+# ─── Configuration management ─────────────────────────────────────────────────
+hydra-core>=1.2.0
+omegaconf>=2.2.0
+
+# ─── Plotting and visualisation ───────────────────────────────────────────────
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# ─── Utilities ────────────────────────────────────────────────────────────────
+tqdm>=4.64.0
+rich>=12.0.0
+pyyaml>=6.0
+h5py>=3.6.0
+scikit-learn>=1.1.0
+statsmodels>=0.13.0
+
+# ─── Hugging Face (dataset download) ──────────────────────────────────────────
+datasets>=2.0.0
+huggingface-hub>=0.12.0
+
+# ─── Experiment tracking (optional) ──────────────────────────────────────────
+# wandb>=0.12.0      # uncomment to enable Weights & Biases logging
+
+# ─── External dependencies (install separately — see README) ──────────────────
+# The base crystal generator must be installed from:
+#   https://github.com/microsoft/mattergen
+# MatterSim (relaxation / energy predictor) from:
+#   https://github.com/microsoft/mattersim
+# Install both before running any scripts in this repository.

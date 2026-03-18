@@ -1,0 +1,42 @@
+directory,formula,n_atoms,dHf_eV_per_atom,e_above_hull_eV_per_atom,hull_status
+POSCAR_21_Gd3InC_E-11.33,CGd3In,5,-0.4553,-0.1108,Below hull (novel stable)
+POSCAR_39_EuO_E-10.43,Eu2O2,4,-3.2169,-0.0779,Below hull (novel stable)
+POSCAR_40_EuO_E-10.43,Eu2O2,4,-3.2169,-0.0779,Below hull (novel stable)
+POSCAR_11_GdRu_E-11.79,Gd2Ru2,4,-0.2453,-0.0528,Below hull (novel stable)
+POSCAR_13_GdRu_E-11.79,Gd2Ru2,4,-0.2450,-0.0525,Below hull (novel stable)
+POSCAR_12_GdRu_E-11.79,Gd2Ru2,4,-0.2450,-0.0525,Below hull (novel stable)
+POSCAR_50_LiGd2Ir_E-10.27,Gd2IrLi,4,-0.5567,-0.0354,Below hull (novel stable)
+POSCAR_18_Gd2IrPd_E-11.40,Gd2IrPd,4,-0.8728,-0.0260,Below hull (novel stable)
+POSCAR_35_Hf2ReRh_E-10.62,Hf2ReRh,4,-0.7052,-0.0182,Below hull (novel stable)
+POSCAR_34_TaNbC2_E-10.63,C2NbTa,4,-0.5479,-0.0106,Below hull (novel stable)
+POSCAR_22_HfOs_E-11.30,Hf2Os2,4,-0.7190,-0.0102,Below hull (novel stable)
+POSCAR_04_MoW5_E-12.61,MoW5,6,-0.0121,-0.0102,Below hull (novel stable)
+POSCAR_38_TaTiMo2_E-10.51,Mo2TaTi,4,-0.1066,-0.0039,On hull
+POSCAR_17_Ta3Ru_E-11.42,RuTa3,4,-0.2061,0.0104,Near hull
+POSCAR_36_TiRe_E-10.57,Re2Ti2,4,-0.3836,0.0143,Near hull
+POSCAR_43_Gd2AgRu_E-10.35,AgGd2Ru,4,-0.2917,0.0167,Near hull
+POSCAR_24_Gd2Al_E-11.01,Al2Gd4,6,-0.2611,0.0170,Near hull
+POSCAR_41_Ti2ReOs_E-10.42,OsReTi2,4,-0.5455,0.0215,Near hull
+POSCAR_19_TiRe3_E-11.39,Re3Ti,4,-0.2176,0.0466,Near hull
+POSCAR_29_Hf2CN_E-10.81,CHf2N,4,-1.4305,0.0718,Near hull
+POSCAR_27_Gd3Cd_E-10.87,CdGd3,4,-0.0998,0.0727,Near hull
+POSCAR_16_Ta2C_E-11.43,C3Ta6,9,-0.4670,0.1301,Marginal
+POSCAR_42_EuHfO3_E-10.36,Eu2Hf2O6,10,-3.5804,0.1455,Marginal
+POSCAR_26_HfN_E-10.90,Hf2N2,4,-1.7698,0.1587,Marginal
+POSCAR_32_Hf7N9_E-10.71,Hf7N9,16,-1.6818,0.1957,Marginal
+POSCAR_07_Gd7TeS_E-12.43,Gd7STe,9,-0.6777,0.1967,Marginal
+POSCAR_48_Ta6HC5_E-10.30,C5HTa6,12,-0.2595,0.2892,Marginal
+POSCAR_08_Gd2O3_E-12.03,Gd8O12,20,-3.5077,0.3877,Above hull
+POSCAR_09_Gd2O3_E-12.00,Gd4O6,10,-3.4651,0.4303,Above hull
+POSCAR_25_TaN_E-10.95,N2Ta2,4,-0.9214,0.4312,Above hull
+POSCAR_10_Gd2O3_E-11.99,Gd6O9,15,-3.4485,0.4469,Above hull
+POSCAR_30_GdO2_E-10.74,Gd2O4,6,-2.7488,0.4974,Above hull
+POSCAR_20_Gd7O12_E-11.36,Gd7O12,19,-3.0757,0.5122,Above hull
+POSCAR_33_GdO2_E-10.64,Gd2O4,6,-2.7295,0.5167,Above hull
+POSCAR_31_Gd2CO4_E-10.72,CGd2O4,7,-2.6371,0.5245,Above hull
+POSCAR_49_Gd3ClO5_E-10.29,ClGd3O5,9,-2.7818,0.5752,Above hull
+POSCAR_14_W2C_E-11.64,CW2,3,0.0250,0.1061,Unstable (ΔH_f>0)
+POSCAR_23_ReMo3_E-11.08,Mo3Re,4,0.2025,0.2067,Unstable (ΔH_f>0)
+POSCAR_44_TaFe_E-10.34,Fe6Ta6,12,0.0631,0.2539,Unstable (ΔH_f>0)
+POSCAR_37_Gd2DyRu_E-10.57,DyGd2Ru,4,0.1162,0.2990,Unstable (ΔH_f>0)
+POSCAR_15_GdC_E-11.49,C2Gd2,4,0.0928,0.3321,Unstable (ΔH_f>0)
