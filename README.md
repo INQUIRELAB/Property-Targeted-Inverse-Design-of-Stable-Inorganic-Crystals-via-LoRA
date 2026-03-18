@@ -66,8 +66,6 @@ Property-Targeted-Inverse-Design-of-Stable-Inorganic-Crystals-via-LoRA/
 │   ├── composition_bias.py        ← Chemical composition bias test (LoRA vs FiLM)
 │   └── efficiency_metrics.py      ← Parameter efficiency calculations
 │
-├── figures/
-│   └── regenerate_figures.py      ← Reproduce all manuscript figures
 │
 ├── data/
 │   ├── download_dataset.py        ← Download Alexandria-MP-20 from HuggingFace
