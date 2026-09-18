@@ -2,7 +2,7 @@
 ### Parameter-Efficient Fine-Tuning of Diffusion Models for Stable Crystal Structure Generation
 
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: Noncommercial](https://img.shields.io/badge/License-Noncommercial-blue.svg)](LICENSE)
 
 This repository provides the complete code, data, and reproduction instructions for the paper:
 
@@ -543,6 +543,10 @@ If you use this code or data in your research, please cite:
 
 ## Licence
 
-This repository is released under the MIT Licence. See [LICENSE](LICENSE) for details.
+This repository is released under the PolyForm Noncommercial License 1.0.0. See [LICENSE](LICENSE) for details.
 
 The base crystal generator is copyright Microsoft Corporation and is licensed separately under the MIT Licence at its own repository.
+
+## License scope
+
+Original INQUIRE Lab code is licensed under PolyForm Noncommercial License 1.0.0. Original INQUIRE Lab datasets, figures, and documentation are licensed under CC BY-NC 4.0. See [LICENSE](LICENSE) for scope and the full license texts. Materials from other rights holders retain their original terms.
